@@ -1,0 +1,1 @@
+pyinstaller --onefile --name "WarehouseUserManager" main.py

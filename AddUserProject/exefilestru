@@ -1,0 +1,11 @@
+Warehouse App/
+│
+├── WarehouseUserManager.exe
+├── Manager.sql
+├── Cashier.sql
+├── CSD.sql
+├── ActiveManagers.sql
+├── ManagerActivate.sql
+├── ManagerDeactivate.sql
+├── OtherActivate.sql
+└── OtherDeactivate.sql

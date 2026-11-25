@@ -1,0 +1,20 @@
+INSERT INTO [dbo].[user]
+(
+    userid,
+    username,
+    UserActive,
+    GroupID,
+    company,
+    division,
+    WarehouseID
+)
+VALUES
+(
+    '{USERID}',
+    '{NAME}',
+    '2',
+    'cashier',
+    '100',
+    '200',
+    '{WAREHOUSE}'
+);
